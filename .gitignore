@@ -1,0 +1,13 @@
+/.vscode/
+/obj/
+/Library/
+/Logs/
+/Temp/
+/UserSettings/
+*.csproj
+*.sln
+.DS_Store
+
+# https://assetstore.unity.com/packages/3d/animations/basic-motions-157744
+/Assets/Kevin Iglesias/
+/Assets/Kevin Iglesias.meta
